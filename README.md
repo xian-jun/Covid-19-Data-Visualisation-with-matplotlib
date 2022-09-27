@@ -6,3 +6,5 @@ Objectives:
 
 <br>
 Data visualised covered the range Covid-19 data from Jan 2020 to May 2021, using matplotlib library on Jupyter Notebook. 
+The Covid-19 trend was discoursed and visualised with respect to daily new cases, total covid cases, reproduction rate, effect of movement control order (MCO), mass testing and vaccination. 
+<br>
